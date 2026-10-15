@@ -35,7 +35,7 @@ In Mahoratli pedagog I strengthened role checks, login and upload limits, HTML s
 - 3D web: Three.js, React Three Fiber, GSAP.
 - Additional experience: Python, Django, Kotlin, Jetpack Compose, Room, Retrofit, Flutter.
 - Deployment: Git, GitHub, Vercel, Render.
-- Integration practice: Salesforce REST APIs, Odoo data export and Power Automate ticket payloads; external account setup is pending.
+- Integration practice: Salesforce OAuth client credentials and verified read-only API access to a trial org; CRM writes remain disabled and demo accounts have no CRM access. Odoo Community connector prepared, with installation deferred; Power Automate ticket payloads prepared, with the external flow unconnected.
 
 ## AI tools and productivity
 
