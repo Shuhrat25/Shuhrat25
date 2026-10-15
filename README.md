@@ -11,7 +11,7 @@ I am a third-year Software Engineering student at Fergana State Technical Univer
 | Project | What it demonstrates | Stack | Demo |
 | --- | --- | --- | --- |
 | [Mahoratli pedagog](https://github.com/Shuhrat25/mahoratli_pedagog) | Learning platform with lessons, tests, assignments, real-time notifications and basic application security | Next.js, React, Express, Prisma, PostgreSQL, WebSocket | [Open demo](https://mahoratli-pedagog.vercel.app/) |
-| [TalentPulse](https://github.com/Shuhrat25/cv-management-system) | CV and position management, automatic CV assembly, optimistic locking and data export APIs | React, TypeScript, Express, Prisma, PostgreSQL | [Open demo](https://cv-management-system-57ra-dun.vercel.app/) |
+| [TalentPulse](https://github.com/Shuhrat25/cv-management-system) | CV and position management, automatic CV assembly, optimistic locking and a working read-only Salesforce integration with a visible connection check | React, TypeScript, Express, Prisma, PostgreSQL, Salesforce OAuth | [Open demo](https://cv-management-system-57ra-dun.vercel.app/) |
 | [Video Player](https://github.com/Shuhrat25/video_player) | Unfinished video catalogue/player prototype with admin dashboard and backend | React, TypeScript, Express, Drizzle, PostgreSQL | [Open prototype demo](https://video-player-sandy-delta.vercel.app/) |
 | [Neovex One Core Concept](https://github.com/Shuhrat25/neovex-one-core-concept) | Scroll-driven interactive 3D website concept | Next.js, TypeScript, Three.js, React Three Fiber, GSAP | [Open demo](https://neovex-one-core-concept.vercel.app/) |
 | [Solar System 3D](https://github.com/Shuhrat25/Solar-System-3D) | Browser-based exploration with flight and touch controls | React, Three.js, React Three Fiber | [Open demo](https://solar-system-3-d-gamma.vercel.app/) |
@@ -35,7 +35,7 @@ In Mahoratli pedagog I strengthened role checks, login and upload limits, HTML s
 - 3D web: Three.js, React Three Fiber, GSAP.
 - Additional experience: Python, Django, Kotlin, Jetpack Compose, Room, Retrofit, Flutter.
 - Deployment: Git, GitHub, Vercel, Render.
-- Integration practice: Salesforce OAuth client credentials and verified read-only API access to a trial org; CRM writes remain disabled and demo accounts have no CRM access. Odoo Community connector prepared, with installation deferred; Power Automate ticket payloads prepared, with the external flow unconnected.
+- Integration practice: connected Salesforce to [TalentPulse](https://github.com/Shuhrat25/cv-management-system) using OAuth client credentials. Read-only API access works in the [live demo](https://cv-management-system-57ra-dun.vercel.app/), where visitors can verify the connection and see the server check time. CRM writes remain disabled; CRM data and profile export require a dedicated integration administrator. Odoo Community connector prepared, with installation deferred; Power Automate ticket payloads prepared, with the external flow unconnected.
 
 ## AI tools and productivity
 
