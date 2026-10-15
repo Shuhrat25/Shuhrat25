@@ -2,9 +2,9 @@
 
 Full-Stack Software Engineer based in Uzbekistan. I build web applications with React, Next.js, Node.js, TypeScript and PostgreSQL.
 
-Freelance developer since September 2024. Frontend Developer Intern at Neovex in Tashkent since September 2026. Previously a Software Engineer Intern at Itransition Group (June–August 2026).
+Freelance developer since September 2024. Frontend Developer Intern at [Neovex](https://neovex.uz/ru) in Tashkent since September 2026. Previously a Software Engineer Intern at Itransition Group (June–August 2026).
 
-I am a third-year Software Engineering student at Fergana State Technical University. My permanent home is in Fergana; I am currently in Tashkent for my internship.
+I am a third-year Software Engineering student at Fergana State Technical University, expected graduation in 2028. My permanent home is in Fergana; I am currently in Tashkent for my internship.
 
 ## Selected projects
 
@@ -16,6 +16,8 @@ I am a third-year Software Engineering student at Fergana State Technical Univer
 | [Neovex One Core Concept](https://github.com/Shuhrat25/neovex-one-core-concept) | Scroll-driven interactive 3D website concept | Next.js, TypeScript, Three.js, React Three Fiber, GSAP |
 | [Solar System 3D](https://github.com/Shuhrat25/Solar-System-3D) | Browser-based exploration with flight and touch controls | React, Three.js, React Three Fiber |
 | [Restorer’s Bench](https://github.com/Shuhrat25/restorers-bench) | Interactive 3D restoration and procedural fragmentation | React, TypeScript, Three.js |
+
+| [Hologram House](https://github.com/Shuhrat25/hologram-house) | Interactive model gallery with custom hologram shaders | React, TypeScript, Three.js, React Three Fiber |
 
 Additional work: [Music Store Generator](https://github.com/Shuhrat25/music-store-generator), [Admin Workspace](https://github.com/Shuhrat25/Admin_panel), [Metafora for Android](https://github.com/Shuhrat25/Metafora_apk) and [Ozbek Land](https://github.com/Shuhrat25/Ozbek_Land__apk).
 
