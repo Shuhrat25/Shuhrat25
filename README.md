@@ -2,6 +2,8 @@
 
 Full-Stack Software Engineer based in Uzbekistan. I build web applications with React, Next.js, Node.js, TypeScript and PostgreSQL.
 
+**Portfolio:** [Live projects, demos and CV](https://shuhrat-portfolio-ruby.vercel.app/)
+
 Freelance developer since September 2024. Frontend Developer Intern at [Neovex](https://neovex.uz/ru) in Tashkent since September 2026. Previously a Software Engineer Intern at Itransition Group (June–August 2026).
 
 I am a third-year Software Engineering student at Fergana State Technical University, expected graduation in 2028. My permanent home is in Fergana; I am currently in Tashkent for my internship.
@@ -47,6 +49,7 @@ I am developing CARDINAL, a B2B AI platform for preparing game Live-Ops events, 
 
 ## Contact
 
+- [Portfolio](https://shuhrat-portfolio-ruby.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/shuhrat-abdurahmonov-4b4264278/)
 - [Telegram](https://t.me/abdurahmonov_shuhrat)
 - [WhatsApp +998 90 777 92 44](https://wa.me/998907779244)
