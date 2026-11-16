@@ -4,9 +4,9 @@ Full-Stack Software Engineer based in Uzbekistan. I build web applications with 
 
 **Portfolio:** [Live projects, demos and CV](https://shuhrat-portfolio-ruby.vercel.app/)
 
-Freelance developer since September 2024. Frontend Developer Intern at [Neovex](https://neovex.uz/ru) in Tashkent since September 2026. Previously a Software Engineer Intern at Itransition Group (June–August 2026).
+Freelance developer since September 2024. Completed a Frontend Developer internship at [Neovex](https://neovex.uz/ru) in Tashkent (September–November 2026) and a Software Engineer internship at Itransition Group (June–August 2026).
 
-I am a third-year Software Engineering student at Fergana State Technical University, expected graduation in 2028. My permanent home is in Fergana; I am currently in Tashkent for my internship.
+I am a third-year Software Engineering student at Fergana State Technical University, expected graduation in 2028. My permanent home is in Fergana; I am currently based in Tashkent.
 
 ## Selected projects
 
